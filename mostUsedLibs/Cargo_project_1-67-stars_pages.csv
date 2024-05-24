@@ -1,0 +1,9 @@
+Contributors,Dependencies,Dependent packages,Dependent repositories,First release,Forks,Latest release,Repository size,Stars,Total releases,Watchers,homepage,name,pkg_link,repo_link
+43,1,0,0,"Oct 14, 2018",302,"Oct 14, 2018",4.18 MB,2.52K,1,151,https://plus.codes,open-location-code,https://crates.io/crates/open-location-code/0.1.0,https://github.com/google/open-location-code
+2,0,3,3,"Sep  6, 2017",437,about 2 months ago,1010 KB,1.24K,6,75,https://www.nayuki.io/page/qr-code-generator-library,qrcodegen,https://crates.io/crates/qrcodegen/1.6.0,https://github.com/nayuki/QR-Code-generator
+21,4,0,0,"Dec  2, 2015",89,"Dec  2, 2015",688 KB,327,1,30,https://github.com/botanio/sdk,botanio,https://crates.io/crates/botanio/0.1.0,https://github.com/botanio/sdk
+1,5,0,0,"Jul  3, 2019",0,6 days ago,2.36 MB,4,5,1,https://rust-keylock.github.io/,rust-keylock-ui,https://crates.io/crates/rust-keylock-ui/0.11.1,https://github.com/rust-keylock/rust-keylock-ui
+1,0,1,1,"Oct  1, 2019",0,"Oct 29, 2019",92.8 KB,1,38,0,https://github.com/mydotey/lang-extension/tree/master/rust,lang_extension,https://github.com/mydotey/lang-extension,https://github.com/mydotey/lang-extension/tree/master/rust
+19,1,1,0,"Mar 23, 2017",0,"Apr  1, 2017",8.01 MB,0,2,2,https://github.com/adeschamps/lcm/tree/rust/lcm-rust/lcm-gen,lcm_gen,https://github.com/adeschamps/lcm,https://github.com/adeschamps/lcm/tree/rust/lcm-rust/lcm-gen
+19,2,1,0,"Mar 23, 2017",0,"Apr  1, 2017",8.01 MB,0,2,2,https://github.com/adeschamps/lcm/tree/rust/lcm-rust/lcm,lcm,https://github.com/adeschamps/lcm,https://github.com/adeschamps/lcm/tree/rust/lcm-rust/lcm
+1,0,0,0,"Jun 29, 2019",0,"Jun 29, 2019",45.9 KB,0,3,0,https://github.com/Palash90/ganit,ganit,https://crates.io/crates/ganit/0.1.2,https://github.com/Palash90/ganit

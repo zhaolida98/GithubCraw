@@ -1,0 +1,5 @@
+Contributors,Dependencies,Dependent packages,Dependent repositories,First release,Forks,Latest release,Repository size,Stars,Total releases,Watchers,homepage,name,pkg_link,repo_link
+441,2,1,0,"Dec 18, 2018",5.57K,"Dec 18, 2018",1.73 GB,17.2K,1,"1,322",http://www.seleniumhq.org/,selenium,https://anaconda.org/anaconda/selenium,https://github.com/SeleniumHQ/selenium/
+385,0,0,0,"Jun 19, 2019",2.4K,"Feb 17, 2020",651 MB,14.2K,3,572,https://www.bazel.io/,bazel,https://anaconda.org/anaconda/bazel,https://github.com/bazelbuild/bazel
+45,0,0,0,"Aug 21, 2018",739,"Aug 21, 2018",188 MB,2.98K,1,252,https://www.rstudio.com/,rstudio,https://anaconda.org/anaconda/rstudio,https://github.com/rstudio/rstudio
+23,1,1,0,"Oct 31, 2018",130,"Oct 31, 2018",15.7 MB,684,1,36,http://py4j.sourceforge.net/,py4j,https://anaconda.org/anaconda/py4j,https://github.com/bartdag/py4j

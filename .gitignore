@@ -1,0 +1,7 @@
+.vscode/
+cache/
+__pychache__/
+*.zip
+*.tar.gz
+.idea
+exampleGitHtml

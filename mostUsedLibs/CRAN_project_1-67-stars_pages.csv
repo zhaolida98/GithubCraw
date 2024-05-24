@@ -1,0 +1,11 @@
+Contributors,Dependencies,Dependent packages,Dependent repositories,First release,Forks,Latest release,Repository size,Stars,Total releases,Watchers,homepage,name,pkg_link,repo_link
+4,0,0,2,"Oct 10, 2014",29,"Jun 17, 2017",3.16 MB,78,3,26,https://github.com/imanuelcostigan/RSQLServer,RSQLServer,https://cran.r-project.org/package=RSQLServer,https://github.com/imanuelcostigan/RSQLServer
+7,0,1,3,"Sep 23, 2014",34,about 2 months ago,7.55 MB,58,13,25,https://github.com/amattioc/SDMX/,RJSDMX,https://github.com/amattioc/SDMX,https://github.com/amattioc/SDMX/
+2,0,3,24,"Nov 28, 2012",2,"Dec 27, 2014",236 KB,18,8,3,http://github.com/jaak-s/extraTrees,extraTrees,https://cran.r-project.org/package=extraTrees,https://github.com/jaak-s/extraTrees
+1,0,0,2,"Sep 22, 2015",1,"Jan 18, 2016",2.17 MB,8,7,6,https://github.com/jmackie4/cycleRtools,cycleRtools,https://cran.r-project.org/package=cycleRtools,https://github.com/jmackie4/cycleRtools
+1,0,1,1,"Dec 11, 2015",2,"May 29, 2019",7.3 MB,5,5,2,https://github.com/jaroslav-kuchar/rCBA,rCBA,https://cran.r-project.org/package=rCBA,https://github.com/jaroslav-kuchar/rCBA
+2,0,6,14,"Mar  1, 2012",1,"May 31, 2019",2.21 MB,4,6,1,https://github.com/ifellows/ROSM%20http://www.fellstat.com,OpenStreetMap,https://github.com/ifellows/ROSM,https://github.com/ifellows/ROSM%20http://www.fellstat.com
+2,0,1,2,"Jan  9, 2018",0,"Mar 29, 2018",2.11 MB,3,4,1,https://github.com/floidgilbert/jdx,jdx,https://cran.r-project.org/package=jdx,https://github.com/floidgilbert/jdx
+1,0,0,0,"Apr 12, 2019",0,"Jan 17, 2020",1.43 MB,2,2,9,https://github.com/act-org/RSCAT,RSCAT,https://cran.r-project.org/package=RSCAT,https://github.com/act-org/RSCAT
+1,0,1,1,"Dec  1, 2017",0,"Jan 12, 2018",3.81 MB,1,2,1,https://github.com/kliegr/QCBA,qCBA,https://cran.r-project.org/package=qCBA,https://github.com/kliegr/QCBA
+3,0,0,0,"Nov 26, 2017",1,"Apr 18, 2019",9.99 MB,0,4,2,https://github.com/protViz/deisotoper/,deisotoper,https://github.com/protViz/deisotoper,https://github.com/protViz/deisotoper/
